@@ -1,6 +1,6 @@
 # 📊 Análise de Dados de RH com Power BI
 
-<p align="center"> <img src="imagens/Dashboard-RH-Imagem.png" alt="Dashboard de Análise de Recursos Humanos" width="100%"> </p> 
+<p align="center"> <<img width="1444" height="809" alt="image" src="https://github.com/user-attachments/assets/0655b6b5-4650-415a-a9e2-7d53c7878c1b" alt="Dashboard de Análise de Recursos Humanos" width="100%"> </p> 
 
 ## 📌 Sobre o Projeto
 
